@@ -1,0 +1,14 @@
+{
+  "name": "koinx",
+  "version": "1.0.0",
+  "description": "Server side application for cyrptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
